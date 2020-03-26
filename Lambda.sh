@@ -1,2 +1,2 @@
 #!/bin/bash
-Hi this is Varun!
+echo "Hi this is Varun!"
